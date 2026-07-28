@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:#2f455c;color:#f6f0e8;
+display:flex;justify-content:center;align-items:center;height:100vh}
+#menu,#game{text-align:center}
+.hidden{display:none}
+button{padding:12px 20px;margin:8px;border-radius:10px;border:none;cursor:pointer}
+.bar{margin:20px}
